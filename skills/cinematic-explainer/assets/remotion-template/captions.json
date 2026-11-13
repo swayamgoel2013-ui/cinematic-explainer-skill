@@ -1,0 +1,28 @@
+{
+  "captions": [
+    {
+      "start": 0.7,
+      "end": 4.1,
+      "text": "The same material can sink or float.",
+      "timingMode": "phrase"
+    },
+    {
+      "start": 5.5,
+      "end": 8.7,
+      "text": "Solid steel has more mass than the same volume of water.",
+      "timingMode": "phrase"
+    },
+    {
+      "start": 10,
+      "end": 13.2,
+      "text": "A hollow hull encloses a much larger volume.",
+      "timingMode": "phrase"
+    },
+    {
+      "start": 14.1,
+      "end": 17.8,
+      "text": "Add weight, and a floating ship displaces more water.",
+      "timingMode": "phrase"
+    }
+  ]
+}

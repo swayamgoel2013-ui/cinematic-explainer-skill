@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cinematic Explainer"
+  short_description: "Narrated videos with purposeful motion and cutaways"
+  default_prompt: "Use $cinematic-explainer to turn my voiceover and source notes into an animated explainer with an editable project and finished MP4."

@@ -1,0 +1,36 @@
+{
+  "shots": [
+    {
+      "id": "same-material",
+      "startFrame": 0,
+      "endFrameExclusive": 135,
+      "kind": "contrast",
+      "title": "SAME STEEL.\nDIFFERENT RESULT.",
+      "action": "The dimensional ship advances while the rigid nail descends into the ocean."
+    },
+    {
+      "id": "equal-volume",
+      "startFrame": 135,
+      "endFrameExclusive": 270,
+      "kind": "dive",
+      "title": "SAME VOLUME.\nDIFFERENT MASS.",
+      "action": "The nail descends to align with an exact same-shape water volume; its geometry remains unchanged."
+    },
+    {
+      "id": "dry-hold",
+      "startFrame": 270,
+      "endFrameExclusive": 405,
+      "kind": "cutaway",
+      "title": "HOLLOW HULL.\nDRY INTERIOR.",
+      "action": "A scan removes the actual ship's near plating to reveal dry interior ribs, preserving its silhouette and deck."
+    },
+    {
+      "id": "added-load",
+      "startFrame": 405,
+      "endFrameExclusive": 540,
+      "kind": "displacement",
+      "title": "MORE LOAD.\nMORE DISPLACEMENT.",
+      "action": "Cargo drops onto the deck; the same ship settles deeper while the excluded underwater volume grows."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cinematic-explainer-project",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.20.0"
+  },
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "doctor": "node scripts/workflow.mjs doctor",
+    "check": "node scripts/workflow.mjs check",
+    "render": "node scripts/workflow.mjs render",
+    "stills": "node scripts/workflow.mjs stills",
+    "verify": "node scripts/workflow.mjs verify",
+    "test": "node --test scripts/*.test.mjs"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.543",
+    "@remotion/bundler": "4.0.543",
+    "@remotion/renderer": "4.0.543",
+    "remotion": "4.0.543",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  }
+}
